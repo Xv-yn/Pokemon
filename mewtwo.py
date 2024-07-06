@@ -2,8 +2,8 @@
 Mew
 """
 class Mewtwo:
-    attack = 0
-    defence = 0
-    spatk = 0
-    spdef = 0
-    spe = 0
+    attack = 150
+    defence = 44
+    spatk = 200
+    spdef = 66
+    spe = 299
